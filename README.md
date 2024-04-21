@@ -47,7 +47,7 @@ Java Swing along with AWT is used to give the smooth interface of the webpage. <
   - Java Swing
   - AWT
 - DataBase:
-  - MySQL
+  - SQL
 - IDE Used:
   - NetBeans(8.0) [you can also use any of your preferred one.]
 
@@ -69,6 +69,7 @@ The images are taken from free image providing websites like unsplash and pexels
 ![Dashboard](Outputs/op1.png)<br>
 ![Different Windows](Outputs/op2.png)
 ![Different Windows](Outputs/op3.png)
+![Screenshot 2024-04-21 213308](https://github.com/mrmanishgit/TRAVEL-TOUR-MANAGEMENT/assets/157808382/ab16ce45-b9f5-43f1-916f-c0edabcf0ba3)
 
 
 
@@ -79,7 +80,7 @@ The images are taken from free image providing websites like unsplash and pexels
 
 #### MIT License
 
-Copyright (c) 2021 Sushant Gaurav
+Copyright (c) 2024 Manish Maharana
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -103,10 +104,6 @@ SOFTWARE.
 
 ---
 
-## Author Info
-
-- Twitter - [@imsushant12](https://twitter.com/_im_sushant)
-- Website - [My Portfolio](https://imsushant.github.io)
 
 [Back To The Top](#travel-planner)
 
